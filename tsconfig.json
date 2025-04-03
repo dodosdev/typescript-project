@@ -1,17 +1,10 @@
 {
   "compilerOptions": {
-    "module": "CommonJS",
-    "moduleResolution": "Node",
-    "esModuleInterop": true,
     "target": "es5",
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext",
-      
-
-
-      
+      "esnext"
     ],
     "allowJs": true,
     "skipLibCheck": true,
